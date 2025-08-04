@@ -24,6 +24,7 @@ const Navbar = () => {
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
         <li><Link to="home" smooth={true} duration={500}>Home</Link></li>
+        <li><Link to="experience" smooth={true} duration={500}>Experience</Link></li>
         <li><Link to="projects" smooth={true} duration={500}>Projects</Link></li>
         <li><Link to="skills" smooth={true} duration={500}>Skills</Link></li>
         <li><Link to="education" smooth={true} duration={500}>Education</Link></li>
@@ -35,6 +36,7 @@ const Navbar = () => {
   <div className="navbar-end hidden lg:flex">
     <ul className="menu menu-horizontal text-xl px-1">
       <li><Link to="home" smooth={true} duration={900}>Home</Link></li>
+      <li><Link to="experience" smooth={true} duration={500}>Experience</Link></li>
       <li><Link to="projects" smooth={true} duration={900}>Projects</Link></li>
       <li><Link to="skills" smooth={true} duration={900}>Skills</Link></li>
       <li><Link to="education" smooth={true} duration={900}>Education</Link></li>

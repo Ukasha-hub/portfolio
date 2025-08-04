@@ -13,10 +13,15 @@ const Banner = () => {
       <h1 className="text-5xl font-bold">Mehvish Rahman Ukasha</h1>
       <p className="py-6">
 	 
-I’m a quiet, introverted person, and a proud cat lady with a strong passion for software engineering. I love solving problems, have no issue staying focused on my work for hours, and have the patience needed to debug tricky code.
-During university, I got pretty good at Python, Java, and some C. I also learned OOP, Data Structures, Algorithms, and other related courses. On top of that, I worked on a few website projects and picked up skills in HTML5, CSS3, JavaScript, a little PHP, and MySQL.
-After graduation, I continued learning by joining an online course where I picked up ReactJS, NodeJS,  and MongoDB, and I completed some fun project assignments along the way.
-I don’t have any industrial experience yet, but I’m excited to start working on real-world projects and show what I can do😁.
+I’m a quiet, introverted person and a proud cat lady with a deep passion for software engineering. I love tackling complex problems, can stay focused on my work for hours, and have the patience to debug even the trickiest code.
+
+During university, I built a solid foundation in Python, Java, and some C, along with strong knowledge of OOP, Data Structures, Algorithms, and related subjects. I also worked on several web projects, gaining hands-on experience with HTML5, CSS3, JavaScript, PHP, and MySQL.
+
+After graduation, I continued to grow my skills by completing an online course in the MERN stack (ReactJS, NodeJS, MongoDB) and developed multiple project assignments that helped me sharpen my full-stack development abilities.
+
+I also completed a Software Developer Internship, where I gained practical experience working on real-world projects, applying my technical skills in a collaborative environment, and enhancing my understanding of software development processes.
+
+Now, I’m eager to take on new challenges, contribute to impactful projects, and continue learning and growing as a software engineer.😁.
 
       </p>
       
